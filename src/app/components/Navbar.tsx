@@ -37,8 +37,8 @@ export default function Navbar() {
         <div className="md:hidden bg-white border-t">
           <div className="px-2 pt-2 pb-3 space-y-1">
             <Link href="/" className="block px-3 py-2 text-gray-700 hover:bg-blue-50 rounded">Home</Link>
-            <Link href="/About" className="block px-3 py-2 text-gray-700 hover:bg-blue-50 rounded">About</Link>
-            <Link href="/Contact" className="block px-3 py-2 text-gray-700 hover:bg-blue-50 rounded">Contact</Link>
+            <Link href="/about" className="block px-3 py-2 text-gray-700 hover:bg-blue-50 rounded">About</Link>
+            <Link href="/contact" className="block px-3 py-2 text-gray-700 hover:bg-blue-50 rounded">Contact</Link>
           </div>
         </div>
       )}
