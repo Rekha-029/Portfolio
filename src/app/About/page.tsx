@@ -97,7 +97,7 @@ export default function About() {
         <h2 className="text-3xl font-bold text-center mb-8 text-white">
           🏆 Achievement
         </h2>
-        <div className="bg-gradient-to-r from-yellow-50 to-orange-50 rounded-2xl shadow-xl p-8 md:p-12 border-2 border-yellow-200">
+        <div className="bg-linear-to-r from-yellow-50 to-orange-50 rounded-2xl shadow-xl p-8 md:p-12 border-2 border-yellow-200">
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="text-6xl">🏅</div>
             <div>
