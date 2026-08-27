@@ -99,7 +99,7 @@ export default function Home() {
               <div className="text-4xl mb-3">🎯</div>
               <h3 className="font-semibold text-xl mb-2">Achievement</h3>
               <p className="text-black-600">India's Talent Fight</p>
-              <p className="text-sm text-black-500">Season 6 - Selected</p>
+              {/* <p className="text-sm text-black-500">Season 6 - Selected</p> */}
             </div>
           </div>
         </div>
